@@ -1,0 +1,9 @@
+This is me trying to reproduce algorithms discussed in "Design and Analysis of Algorithms 1" online curse from Stanford University.
+
+
+I'm not using Java, because it requires additional jUnit library to test my algorithms (and that sucks all the way). I could consider using Python, it has build in 'unittest' lib, but after SaaS course i prefer Ruby over Python. Just because it has 'poetry mode'. :)
+
+
+Anyone reading this could lose line of sight, because i'm in love with 'oneline methods' in Ruby and try to minimize, even then readibility suffers.
+ 
+
